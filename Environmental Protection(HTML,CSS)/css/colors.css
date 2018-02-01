@@ -1,0 +1,22 @@
+body {
+	background-color: #faf9f5;
+}
+h1 {
+	color: #5b583a;
+}
+p {
+	color: #ad9a60;
+}
+a {
+	color: #adb7bd;
+}
+a p {
+	color: #5f5834;
+}
+.nav {
+	background-color: #312b1c;
+}
+.read {
+	background-color: #faf9f5;
+	transition: 0.5s;
+}

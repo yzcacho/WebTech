@@ -1,0 +1,49 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+}
+body {
+	text-align: center;
+}
+.wrapper {
+}
+.nav {
+	position: fixed;
+	width: 100%;
+	z-index: 10;
+}
+.nav ul {
+	display: inline-block;
+}
+.home {
+	margin-top: 110px; 
+	margin-left: 80px;
+}
+.title {
+	float: left;
+	height: 570px;
+	width: 620px;
+}
+.qr {
+	float: left;
+	height: 570px;
+	width: 620px;
+}
+.read {
+	margin: auto;
+	margin-top: 30px;
+	width: 400px;
+}
+.quote {
+	margin: auto;
+	margin-top: 200px;
+	width: 400px;
+}
+.content {
+	margin-top: 70px;
+}

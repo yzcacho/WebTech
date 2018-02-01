@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'Bungee Regular';
+	src: url('../fonts/bungee/Bungee-Regular.otf');
+}
+@font-face {
+	font-family: 'Rouge Script';
+	src: url('../fonts/rogue-script/RougeScript-Regular.ttf');
+}
+p, h1 {
+	text-align: center;
+}
+h1 {
+	font-family: 'Bungee Regular';
+	font-size: 54px;
+	font-weight: 300;
+	letter-spacing: 5px;
+}
+h2 {
+	display: block;
+	font-size: 45px;
+	font-family: 'Bungee Regular';
+	font-weight: 300px;
+	color: #5b583a;
+	letter-spacing: 5px;	
+}
+p {
+	font-family: 'Bungee Regular';
+	letter-spacing: 3px;
+	font-size: 20px;
+}
+a li {
+	letter-spacing: 3px;
+}
+p a {
+	text-decoration: none;
+}
+.quote p {
+	font-size: 40px;
+	font-family: 'Rouge Script';
+}
+.read a p {
+	font-size: 30px;
+	transition: 0.5s;
+}
+
