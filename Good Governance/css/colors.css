@@ -1,15 +1,20 @@
 body {
-	background-color: #8be0cd;
+	background-color: ;
+	background: linear-gradient(to bottom right, #80ffaa 10%, #99ffd6 50%, #99ff99);
 }
 
 h1{
 	color: #ffffff;
 }
 
-p{
-
+a{
+	color: #ffab77;
 }
 
-a{
-	color: #FFAB77;
+.quote{
+	color: #ffbf80;
+}
+
+.title{
+	color: 
 }
