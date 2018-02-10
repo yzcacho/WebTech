@@ -1,0 +1,28 @@
+#blogo img {
+    width: 60px;
+    height: 60px;
+    float: right;
+}
+ul {
+    padding: 0;
+}
+li {
+    text-decoration: none;
+    list-style-type: none;
+    letter-spacing: 3px;
+    float: left;
+    /**border: 1px solid;**/
+    padding: 20px;
+}
+ul li a {
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+ul li a:hover {
+    padding: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    transition: 0.3s;
+}

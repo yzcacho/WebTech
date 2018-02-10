@@ -1,0 +1,80 @@
+/** 
+    ALL
+**/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+body {
+}
+.wrapper {
+    width: 960px;
+    margin: auto;
+}
+.nav {
+    width: 100%;
+    margin: auto;
+    height: 60px;
+    position: fixed;
+    z-index: 10;
+    top 0;
+    left: 0;
+}
+.footer {
+    background-color: #4d4d4d;
+    width: 100%;
+    height: 150px;
+    border-top: 1px solid;
+    text-align: left;
+    bottom: 0;
+    top 0;
+    left: 0;
+}
+.developer {
+    width: 33.125%;
+    height: 150px;
+    float: left;
+    position: relative;
+}
+.contacts {
+    float: left;
+    width: 33.125%;
+    height: 150px;   
+    position: relative;
+    text-align: center;
+}
+.qoute2 {
+    float: left;
+    position: relative;
+    width: 33.125%;
+    height: 150px;
+    margin: auto;
+    position: relative;
+}
+/**
+    HOMEPAGE
+**/
+.intro {
+    width: 80%;
+    margin: auto;
+    height: 780px;
+}
+.quote1 {
+    width: 80%;
+    margin: auto;
+}
+/**
+    ABOUT PAGE
+**/
+.content {
+    margin: auto;
+    border: 1px solid;
+    text-align: center;
+    width: 90%;
+    margin-top: 10px;
+}

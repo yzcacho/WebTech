@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Pooch Doo";
+    src: url("../fonts/PoochDoo.otf")
+}
+/** 
+    NAV BAR
+**/
+.nav {
+    font-family: 'Pooch Doo';
+    font-size: 20px;
+}
+.nav li a {
+    color: darkgreen;
+}
+/**
+    HOME PAGE
+**/
+.intro h1 {
+    font-family: 'Pooch Doo';
+    letter-spacing: 5px;
+    font-size: 100px;
+}
+.quote1 h2 {
+    font-family: 'Pooch Doo';
+    letter-spacing: 5px;
+    font-size: 50px;
+} 
