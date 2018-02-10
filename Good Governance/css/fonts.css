@@ -1,17 +1,14 @@
 @font-face {
 	font-family: 'Blue Highway';
-	src: url('../fonts/blue-highway/blue-highway-rg.tff');
+	src: url('../fonts/blue-highway-rg.ttf');
 }
-@font-face {
-	font-family: 'Rouge Script';
-	src: url('../fonts/rogue-script/RougeScript-Regular.ttf');
-}
+
 p, h1 {
 	text-align: center;
 }
 h1 {
 	font-family: 'Blue Highway';
-	font-size: 54px;
+	font-size: 40px;
 	font-weight: 300;
 	letter-spacing: 5px;
 }
@@ -36,9 +33,15 @@ p a {
 }
 .quote p {
 	font-size: 40px;
-	font-family: 'Rouge Script';
+	font-family: 'Blue Highway';
 }
 .read a p {
 	font-size: 30px;
 	transition: 0.5s;
 }
+div.footer p{
+	font-size: 20px;
+}
+
+
+
