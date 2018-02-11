@@ -1,20 +1,60 @@
 body {
 	background-color: ;
-	background: linear-gradient(to bottom right, #80ffaa 10%, #99ffd6 50%, #99ff99);
+	background: linear-gradient(to bottom, #80ffaa 10%, #99ffd6 50%, #80ffaa);
 }
 
 h1{
 	color: #ffffff;
 }
 
-a{
+.content h2 {
 	color: #ffab77;
 }
 
-.quote{
-	color: #ffbf80;
+.nav a{
+	color: #ffab77;
 }
 
-.title{
-	color: 
+.read a {
+	color: #ffab77;
+}
+
+.read {
+	background-color: #303030;
+}
+
+.quote{
+	color: #000000;
+}
+
+.footer{
+	color: #ffffff;
+}
+
+#kapitan{
+	color: #ffffff;
+}
+#kag_1{
+	color: #ffffff;
+}
+#kag_2{
+	color: #ffffff;
+}
+#kag_3{
+	color: #ffffff;
+}
+#kag_4{
+	color: #ffffff;
+}
+#kag_5{
+	color: #ffffff;
+}
+#kag_6{
+	color: #ffffff;
+}
+#treasurer{
+	color: #ffffff;
+}
+#secretary{
+	color: #ffffff;
 }
