@@ -1,0 +1,61 @@
+@font-face {
+	font-family: 'Blue Highway';
+	src: url('../fonts/blue-highway-rg.ttf');
+}
+
+p, h1 {
+	text-align: center;
+}
+h1 {
+	font-family: 'Blue Highway';
+	font-size: 40px;
+	font-weight: 300;
+	letter-spacing: 5px;
+
+}
+h2 {
+	display: block;
+	font-size: 20px;
+	font-family: 'Blue Highway';
+	font-weight: 300px;
+	color: #5b583a;
+	letter-spacing: 5px;	
+}
+p {
+	font-family: 'Blue Highway';
+	letter-spacing: 3px;
+	font-size: 15px;
+}
+a li {
+	letter-spacing: 3px;
+}
+p a {
+	text-decoration: none;
+}
+.nav a{
+	font-family: 'Blue Highway';
+}
+.quote p {
+	font-size: 30px;
+	font-family: 'Blue Highway';
+}
+.read a p {
+	font-size: 20px;
+	transition: 0.5s;
+}
+
+.header h1{
+	font-size: 20px;
+	text-align: left;
+}
+
+.footer h1{
+	font-size: 15px;
+}
+
+
+
+
+
+
+

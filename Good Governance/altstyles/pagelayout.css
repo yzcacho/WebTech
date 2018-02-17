@@ -1,0 +1,112 @@
+.header img{
+	margin-left: 14%;
+	width: 100px;
+	vertical-align: middle;
+}
+.header{
+	margin-left: 38%;
+}
+
+.nav{
+	margin-left: 30%;
+    margin-bottom: 40px;
+	width: 50%;
+}
+
+.nav:after {
+	content: ".";
+  	display: block;
+  	height: 0;
+  	clear: both;
+  	visibility: hidden;
+}
+
+.content {
+	display: block;
+	text-align: center;
+}
+
+.about p{
+	display: block;
+	text-align: justify;
+	max-width: 880px;
+	margin-left: 19%;
+}
+
+.footer img{
+	width: 20px;
+}
+
+.org:after{
+	content: "";
+    display: table;
+    clear: both;
+}
+.kag_1{
+	float: left;
+	width: 33.33%;
+	height: 200px;
+}
+.kag_2{
+	float: left;
+	width: 33.33%;	
+	height: 200px;
+}
+.kag_3{
+	float: left;
+	width: 33.33%;	
+	height: 200px;
+}
+.kag_4{
+	float: left;
+	width: 33.33%;	
+	height: 200px;
+}
+.kag_5{
+	float: left;
+	width: 33.33%;	
+	height: 200px;
+}
+.kag_6{
+	float: left;
+	width: 33.33%;	
+	height: 200px;
+}
+.kag_7{
+	float: left;
+	width: 33.33%;	
+	height: 200px;
+}
+.secretary{
+	float: left;
+	width: 33.33%;
+	height: 200px;
+
+}
+.treasurer{
+	float: left;
+	width: 33.33%;	
+	height: 200px;
+}
+
+
+.advocacies {
+	display: block;
+	text-align: center;
+	width: 750px;
+	margin: auto;
+}
+
+.footer{
+	position: relative;
+ 	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	text-align: center;
+	clear: both;
+}
+
+.gallery{
+	width: 1500px;
+}
