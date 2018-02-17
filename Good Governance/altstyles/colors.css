@@ -1,5 +1,4 @@
 body {
-	background-color: ;
 	background: linear-gradient(to bottom, #80ffaa 10%, #99ffd6 50%, #80ffaa);
 }
 
@@ -21,6 +20,10 @@ h1{
 
 .read {
 	background-color: #303030;
+}
+
+.read a{
+	text-decoration: none;
 }
 
 .quote{

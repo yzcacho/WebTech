@@ -19,6 +19,8 @@ li a {
     border-radius: 10px;
 }
 
+/*
+OLD:
 .read p:hover{
 	color: white;
 	display: inline;
@@ -35,5 +37,20 @@ li a {
     border: none;
     display: inline-block;
     border-radius: 10px;
-}
+}*/
 
+.read{
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 5s;
+  transition-duration: 0.5s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.read:hover, .read:focus, .read:active {
+  -webkit-transform: scale(1.1) rotate(4deg);
+  transform: scale(1.1) rotate(4deg);
+}

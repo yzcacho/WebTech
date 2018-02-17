@@ -1,16 +1,19 @@
 .header img{
-	margin-left: 14%;
 	width: 100px;
-	vertical-align: middle;
+	
+	float: left;
 }
 .header{
-	margin-left: 38%;
+	border: 1px black solid;
+	margin: auto;
+	width: 50%;
+	height: 150px;
 }
 
 .nav{
-	margin-left: 30%;
-    margin-bottom: 40px;
+	margin: auto;
 	width: 50%;
+	margin-bottom: 
 }
 
 .nav:after {
@@ -24,13 +27,14 @@
 .content {
 	display: block;
 	text-align: center;
+	margin: auto;
+	width: 50%;
 }
 
 .about p{
 	display: block;
 	text-align: justify;
-	max-width: 880px;
-	margin-left: 19%;
+	margin: auto;
 }
 
 .footer img{
