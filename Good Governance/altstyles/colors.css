@@ -2,7 +2,18 @@ body {
 	background: linear-gradient(to bottom, #80ffaa 10%, #99ffd6 50%, #80ffaa);
 }
 
-h1{
+.title h1{
+	color: #633802;
+	-webkit-text-stroke: 1px #7f5623;
+}
+.header h1{
+	color: #633802;
+	-webkit-text-stroke: 1px #7f5623;
+}
+.header{
+	background: linear-gradient(to bottom, #a3927c, #303030);
+}
+.content h1{
 	color: #ffffff;
 }
 
@@ -60,4 +71,12 @@ h1{
 }
 #secretary{
 	color: #ffffff;
+}
+
+.advocacies h1{
+	color: #ffffff;
+}
+
+.advocacies h2{
+	color: coral;
 }

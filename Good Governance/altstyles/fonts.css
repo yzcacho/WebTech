@@ -3,32 +3,53 @@
 	src: url('../fonts/blue-highway-rg.ttf');
 }
 
+@font-face {
+	font-family: 'Logger';
+	src: url('../fonts/Logger.ttf');
+}
+
+@font-face {
+	font-family: 'Natural Log';
+	src: url('../fonts/natlog.ttf');
+}
+
 p, h1 {
 	text-align: center;
 }
-h1 {
-	font-family: 'Blue Highway';
-	font-size: 40px;
-	font-weight: 300;
-	letter-spacing: 5px;
 
+h1{
+	font-family: 'Natural Log';
+	font-weight: normal;
+	font-size: 50px;
+	margin: 5px;
 }
+
+.title h1 {
+	font-family: 'Logger';
+	font-size: 60px;
+	font-weight: normal;
+}
+
 h2 {
 	display: block;
-	font-size: 20px;
-	font-family: 'Blue Highway';
+	font-size: 30px;
+	font-family: 'Natural Log';
 	font-weight: 300px;
 	color: #5b583a;
-	letter-spacing: 5px;	
+	letter-spacing: 5px;
+	margin: 1px;
 }
+
 p {
 	font-family: 'Blue Highway';
 	letter-spacing: 3px;
 	font-size: 15px;
 }
+
 a li {
 	letter-spacing: 3px;
 }
+
 p a {
 	text-decoration: none;
 }
@@ -36,8 +57,10 @@ p a {
 	font-family: 'Blue Highway';
 }
 .quote p {
-	font-size: 30px;
-	font-family: 'Blue Highway';
+	margin: 15px;
+	font-size: 40px;
+	font-family: 'Natural Log';
+	font-weight: bold;
 }
 .read a p {
 	font-size: 20px;
@@ -45,12 +68,15 @@ p a {
 }
 
 .header h1{
+	font-family: 'Logger';
+	font-weight: normal;
 	font-size: 20px;
-	text-align: left;
 }
 
-.footer h1{
-	font-size: 15px;
+.footer p{
+	margin: 0;
+	font-family: 'Natural Log';
+	font-size: 22px;
 }
 
 

@@ -5,7 +5,7 @@ ul {
 }
 li {
 	font-size: 20px;
-	padding: 10px;
+	padding: 5px;
 	display: inline;
 	transition: 0.3s;
 }

@@ -54,3 +54,10 @@ OLD:
   -webkit-transform: scale(1.1) rotate(4deg);
   transform: scale(1.1) rotate(4deg);
 }
+
+.header{
+  border-top: 3px dotted coral;
+  border-bottom: 3px dotted coral;
+  box-shadow: inset 0 -5px 0 0 coral, inset 0 2px 0 0 coral, 0 5px 0 0 coral, 0 -5px 0 0 coral;
+  margin-bottom: 1px;
+}

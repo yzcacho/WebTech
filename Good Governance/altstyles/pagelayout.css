@@ -1,18 +1,22 @@
 .header img{
 	width: 100px;
-	
-	float: left;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.header h1{
+	margin: auto;
+	width: 51%;
 }
 .header{
-	border: 1px black solid;
-	margin: auto;
-	width: 50%;
-	height: 150px;
+	margin-bottom: 10px;
+	height: 175px;
 }
 
 .nav{
 	margin: auto;
-	width: 50%;
+	width: 70%;
 	margin-bottom: 
 }
 
@@ -28,7 +32,14 @@
 	display: block;
 	text-align: center;
 	margin: auto;
-	width: 50%;
+	width: 60%;
+}
+
+.org {
+	display: block;
+	text-align: center;
+	margin: auto;
+	width: 75%;
 }
 
 .about p{
@@ -45,6 +56,9 @@
 	content: "";
     display: table;
     clear: both;
+}
+.kapitan{
+	height: 100px;
 }
 .kag_1{
 	float: left;
