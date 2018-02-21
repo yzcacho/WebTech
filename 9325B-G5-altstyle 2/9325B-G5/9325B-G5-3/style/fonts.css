@@ -1,0 +1,106 @@
+@font-face {
+    font-family: "Pooch Doo";
+    src: url("fonts/PoochDoo.otf")
+}
+@font-face {
+    font-family: "Geo Sans Light";
+    src: url("fonts/GeosansLight.ttf")
+}
+/** 
+    NAV BAR
+**/
+.nav {
+    font-family: 'Geo Sans Light';
+    font-size: 20px;
+}
+.nav li a {
+    color: #4e3218;
+    font-weight: bold;
+}
+/**
+    HOME PAGE
+**/
+.intro h1 {
+    font-family: 'Pooch Doo';
+    letter-spacing: 20px;
+    font-size: 100px;
+    color: #744a25;
+}
+.quote1 h2 {
+    font-family: 'Pooch Doo';
+    letter-spacing: 10px;
+    font-size: 50px;
+    color: #744a25;
+}
+/** 
+    ABOUT PAGE
+**/
+.what #whattitle {
+    font-family: 'Pooch Doo';
+    font-size: 60px;
+    color: #744a25;
+}
+.content h2 {
+    font-family: 'Pooch Doo';
+    font-size: 40px;
+    color: #744a25;
+}
+.mv #mvtitle {
+    font-family: 'Pooch Doo';
+    font-size: 60px;
+    color: #744a25;
+}
+.mission h1 {
+    font-family: 'Pooch Doo';
+    font-size: 40px;  
+    color: #744a25;
+}
+.vision h1 {
+    font-family: 'Pooch Doo';
+    font-size: 40px;  
+    color: #744a25;
+}
+.org h1 {
+    font-family: 'Pooch Doo';
+    font-size: 40px;  
+    color: #744a25;
+}
+.org #orgtitle {
+    font-family: 'Pooch Doo';
+    font-size: 60px;   
+    color: #744a25;
+}
+.content p {
+    font-family: 'Geo Sans Light';
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: #744a25;
+}
+/**
+    ADVOCACY PAGE
+**/
+.advocacy h1 {
+    font-family: 'Pooch Doo';
+    font-size: 60px;   
+    color: #744a25;    
+}
+/**
+    GALLERY PAGE
+**/
+h1 {
+    font-family: 'Pooch Doo';
+    font-size: 60px;   
+    color: #744a25; 
+    text-align: center;
+}
+/** 
+    FOOTER
+**/
+.footer p{
+    font-family: 'Geo Sans Light';
+    color: #4e3218;
+}
+.footer h3 {
+    font-family: 'Geo Sans Light';
+    color: #4e3218;
+}

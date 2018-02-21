@@ -1,0 +1,128 @@
+br {
+    display: none;
+}
+/**
+    HOMEPAGE
+**/
+.intro {
+    text-align: center;
+    
+}
+#wc {
+    font-size: 100px;
+    margin-bottom: 50px;
+}
+#to {
+    font-size: 60px;
+    margin-bottom: 80px;
+}
+.intro h1 {
+    font-size: 50px;
+}
+.quote1 {
+    text-align: center;
+}
+.quote1 h2 {
+    font-size: 50px;
+}
+/**
+    ABOUTPAGE
+**/
+.what {
+    position: relative;
+}
+.mv {
+    position: relative;
+    text-align: center;
+}
+.org {
+    position: relative;
+}
+.mission {
+    width: 45%;
+    float: left;
+    margin-left: 3.2%;
+    margin-top: 20px;
+}
+.vision {
+    width: 45%;
+    float: left;
+    margin-left: 3.2%;
+    margin-top: 20px;
+}
+.main {
+    text-align: center;
+}
+.chairman {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.co-chairman {
+    margin-bottom: 30px;
+}
+.one {
+    position: relative;
+    width: 40%;
+    display: inline-block;
+}
+.two {
+    position: relative;
+    display: inline-block;
+    width: 40%;
+}
+/**
+    ADVOCACY PAGE
+**/
+.advocacy {
+    margin-bottom: 10px;
+}
+.advocacy p {
+    text-justify: auto;
+}
+.advocacy h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/**
+    GALLERY PAGE
+**/
+.gallery {
+    text-align: center;
+}
+.entry {
+    box-shadow: 0px 5px 10px 0px grey;
+    display: inline-block;
+    width: 450px;
+    height: 420px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    transition: 0.4s;
+}
+.entry:hover {
+    position: relative;
+    transition: 0.5s;
+    border-radius: 10px;
+    box-shadow: 0px 20px 50px 0px grey;
+}
+.entry figure {
+    text-align: center;
+    width: 450px;
+    height: 420px;
+    background-color: cornsilk;
+}
+.entry figure img {
+    width: 400px;
+    height: 370px;
+    transition: all 0.5s;
+    margin: auto;
+    margin-top: 23px;
+}
+.entry figure img:hover {
+    border-radius: 10px;
+    margin-top: 0px;
+    width: 450px;
+    height: 420px;
+    z-index:999;
+    transition: all 0.5s;
+}

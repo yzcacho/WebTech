@@ -1,0 +1,101 @@
+/**
+    ALL
+**/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+body {
+	text-align: center;
+}
+.wrapper {
+    position: relative;
+    width: 100%;
+}
+.nav {
+    height: 85px;
+	width: 100%;
+    border: 1px solid;
+    position: relative;
+    top: 0;
+}
+.footer {
+    border: 1px solid;
+    margin-top: 10px;
+    width: 100%;
+    height: 130px;
+    text-align: left;
+    position: relative;
+    bottom: 0;
+}
+.developer {
+    margin-top: 0;
+    border: none;
+    width: 33.125%;
+    height: 130px;
+    float: left;
+    position: relative;
+}
+.contacts {
+    margin-top: 0;
+    border: none;
+    float: left;
+    width: 33.125%;
+    height: 130px;  
+    position: relative;
+    text-align: center;
+}
+.qoute2 {
+    margin-top: 0;
+    float: left;
+    position: relative;
+    width: 33.125%;
+    height: 130px;
+    position: relative;
+}
+/* HOME/INDEX PAGE */
+.intro {
+    margin: auto;
+    margin-top: 10px;
+	height: 650px;
+	width: 100%;
+    text-align: center;
+}
+.quote1 {
+    margin-top: 10px;
+}
+/**
+    ABOUT PAGE
+**/
+.what {
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+	height: 550px;
+}
+.mv {
+    margin: auto;
+    margin-top: 10px;
+    height: 550px;
+}
+.org {
+    margin: auto;
+    margin-top: 10px;
+	height: 750px;   
+}
+/* ADVOCACY PAGE */
+.advocacy {
+    position: relative;
+    height: 1150px;
+}
+/** 
+    GALLERY
+**/
+.gallery {
+    height: 750px;
+}

@@ -1,0 +1,45 @@
+/* GALLERY PAGE */
+.entry {
+	width: 300px;
+	height: 250px;
+	margin: 5px;
+    margin-left: 30px;
+	float: left;
+    border-width:15px;  
+    border-style:inset;
+    border-radius: 50px 20px;
+    border-color: coral;
+    background: linear-gradient(to bottom, #d8cbcb 10%, #513737 80%);
+    
+
+}
+
+.entry figure {
+	padding: 10px;
+	margin: 0;
+	display: block;
+	text-align: left;
+}
+
+.entry figure img {
+   -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+    transition: width 2s, height 2s, transform 2s;
+	width: 280px;
+	height: 200px;
+	margin-top: 15px;
+}
+
+.entry img:hover {
+	position: absolute;
+	transition:1s;
+    width: 500px;
+    height: 500px;
+    -webkit-transform: rotate(360deg); /* Safari */
+    transform: rotate(360deg);
+}
+
+.gallery {
+    margin: auto;
+    height: 1200px;
+}
+

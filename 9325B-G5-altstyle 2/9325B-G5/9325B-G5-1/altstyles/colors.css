@@ -1,0 +1,82 @@
+body {
+	background: linear-gradient(to bottom, #80ffaa 10%, #99ffd6 50%, #80ffaa);
+}
+
+.title h1{
+	color: #633802;
+	-webkit-text-stroke: 1px #7f5623;
+}
+.header h1{
+	color: #633802;
+	-webkit-text-stroke: 1px #7f5623;
+}
+.header{
+	background: linear-gradient(to bottom, #a3927c, #303030);
+}
+.content h1{
+	color: #ffffff;
+}
+
+.content h2 {
+	color: #ffab77;
+}
+
+.nav a{
+	color: #ffab77;
+}
+
+.read a {
+	color: #ffab77;
+}
+
+.read {
+	background-color: #303030;
+}
+
+.read a{
+	text-decoration: none;
+}
+
+.quote{
+	color: #000000;
+}
+
+.footer{
+	color: #ffffff;
+}
+
+#kapitan{
+	color: #ffffff;
+}
+#kag_1{
+	color: #ffffff;
+}
+#kag_2{
+	color: #ffffff;
+}
+#kag_3{
+	color: #ffffff;
+}
+#kag_4{
+	color: #ffffff;
+}
+#kag_5{
+	color: #ffffff;
+}
+#kag_6{
+	color: #ffffff;
+}
+#treasurer{
+	color: #ffffff;
+}
+#secretary{
+	color: #ffffff;
+}
+
+.advocacies h1{
+	color: #ffffff;
+}
+
+.advocacies h2{
+	color: coral;
+}
