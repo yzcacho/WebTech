@@ -1,0 +1,9 @@
+@font-face{
+    font-family: "BebasNeueBold";
+    src: url("BebasNeueBold.ttf");
+}
+
+h1, h2, a, p, h3{
+    font-family: 'BebasNeueBold';
+    font-weight: bold;
+}

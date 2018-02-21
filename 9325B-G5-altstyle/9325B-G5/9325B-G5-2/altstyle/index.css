@@ -1,0 +1,45 @@
+html{
+    background-image: url("trees1.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+body{
+    margin-left: 50%;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 45%;
+    color: black;
+    border-radius: 50%;        
+    background: #91a6b7;
+    line-height:70px;
+    padding: 50px;
+    font-size: 30px;
+    opacity: 0.8;
+}
+a:hover{
+    background: black;
+    color: #91a6b7;
+}
+
+h1{
+    color: #91a6b7;
+    background-color: black;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 25%;
+    margin-right: 25%;
+    opacity: 0.8;
+}
+
+h2{
+    color: #91a6b7;
+    background-color: black;
+    text-align: center;
+    margin-left: 70%;
+    margin-right: 50px;
+    opacity: 0.8;
+}
