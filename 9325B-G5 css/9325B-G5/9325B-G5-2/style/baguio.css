@@ -1,0 +1,75 @@
+body{
+    background-color: ghostwhite;
+    margin: 0px;
+    padding-bottom: 10rem;
+    background-image: url("baguiobg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+h1{
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: ghostwhite;
+    height: 90px;
+}
+
+div.header{
+    text-align: center;
+    background-color: ghostwhite;
+    height: 50px;
+}
+
+nav{
+    background-color: ghostwhite;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    background-color: ghostwhite;
+    padding-right: 50px;
+
+}
+
+p{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: ghostwhite;
+    padding: inherit;
+    text-align: center;
+
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: ghostwhite;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    margin-bottom: 0;
+    background-color: ghostwhite;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 0;
+}
+h2{
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    background-color: ghostwhite;
+    margin-left: 35%;
+    margin-right: 35%;
+    
+}
+
+img{
+    height: 20px;
+    width: 20px; 
+}

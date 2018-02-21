@@ -1,0 +1,48 @@
+.footer {
+    background-color: #ffffe6;
+}
+.contacts a img {
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+}
+.contacts p {
+    color: #1a1a1a;
+    font-weight: bold;
+}
+.contacts h3 {
+    color: #1a1a1a;
+    font-size: 20px;
+    font-weight: bold;
+}
+.qoute2 {
+    text-align: center;
+}
+.qoute2 p {
+    color: #1a1a1a;
+    font-size: 20px;
+    margin-top: 12%;
+    font-style: oblique;
+    transition: 0.5s;
+}
+.qoute2 p:hover {
+    color: #1a1a1a;
+    font-size: 25px;
+    margin-top: 12%;
+    font-style: oblique;
+    transition: 0.5s;
+}
+.developer {
+    text-align: left;
+}
+.developer p {
+    color: #1a1a1a;
+    font-size: 15px;
+    transition: 0.5s;
+}
+.developer p:hover {
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    transition: 0.5s;
+}
